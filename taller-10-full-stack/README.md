@@ -5,14 +5,16 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h2> Punto 1: Constantes y Variables</h2>
-<img src="./public/images/P1.png">
+<img src="./public/images/P1.png" alt ="Punto 1">
 
 <h2> Punto 2: Suma de constante y variable</h2>
-<img src ="./public/images/P2.png">
+<img src ="./public/images/P2.png" alt ="Punto 2">
 
 <h2> Punto 3: Suma de 2 números ingresados por el usuario</h2>
+<img src="./public/images/P3.png" alt ="Punto 3">
 
 <h2> Punto 4: Nombre y apellido del usuario</h2>
+<img src="./public/images/P4.png" alt ="Punto 4">
 
 <h2> Punto 5: Calculo de pago en Bolera con IF</h2>
 
