@@ -37,12 +37,12 @@
 <p> Dado el tipo de afiliación y el número de personas digitados el usuario generar el valor de las entradas a la bolera teniendo en cuenta que si el tipo de afiliación  es ‘A’  tendrá un descuento del  30% del total si es tipo ‘B’ el 25%, si es tipo ‘C’ del 10% y si es tipo ‘D’ del 5%, el valor es de $25.000 por persona.</p>
 
 <h2> Punto 9: Tabla del 0 al 30 WHILE</h2>
-<img >
+<img src="./public/images/P9.png" alt ="Punto 9">
 <p>Dado un número digitado por el usuario generar la tabla de multiplicar de del 0 hasta el 30;(While)
  </p>
 
 <h2> Punto 10: Números pares del 0 al 100 WHILE</h2>
-<img >
+<img src="./public/images/P10.png" alt ="Punto 10">
 <p> Generar un programa que muestre los números pares del 1 al 100 (while)</p>
 
 <h2> Punto 11: Números pares del 0 al 100 For</h2>
