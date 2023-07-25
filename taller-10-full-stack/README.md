@@ -1,12 +1,14 @@
-<h1>Taller 1 NOMBRE DEL ESTUDIANTE </h1>
+<h1>Taller 1 Mileidy Natali Diaz Cuervo </h1>
 
 <h2> Información</h2>
 <p>Curso: full Stack Básico - Grupo 1 </p>
 <p>Profesor: Cristian Patiño</p>
 
 <h2> Punto 1: Constantes y Variables</h2>
+<img src="./public/images/P1.png">
 
 <h2> Punto 2: Suma de constante y variable</h2>
+<img src ="./public/images/P2.png">
 
 <h2> Punto 3: Suma de 2 números ingresados por el usuario</h2>
 
