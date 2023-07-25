@@ -29,11 +29,11 @@
 <p>Dado el nombre y la edad del usuario, generar un mensaje que incluya el nombre del usuario e indique si es mayor de edad o no. </p>
 
 <h2> Punto 7: Operaciones básicas entre 2 números</h2>
-<img >
+<img src="./public/images/P7.png" alt= "Punto 7">
 <p>Generar la operación de dos números digitados por el usuario pudiendo el usuario sumar, restar, multiplicar o dividir. </p>
 
 <h2> Punto 8: Calculo de pago en Bolera con SWITCH</h2>
-<img >
+<img src="./public/images/P8.png" alt ="Punto 8">
 <p> Dado el tipo de afiliación y el número de personas digitados el usuario generar el valor de las entradas a la bolera teniendo en cuenta que si el tipo de afiliación  es ‘A’  tendrá un descuento del  30% del total si es tipo ‘B’ el 25%, si es tipo ‘C’ del 10% y si es tipo ‘D’ del 5%, el valor es de $25.000 por persona.</p>
 
 <h2> Punto 9: Tabla del 0 al 30 WHILE</h2>
