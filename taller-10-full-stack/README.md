@@ -55,7 +55,7 @@
 <p>Dado un número digitado por el usuario generar la tabla de multiplicar de del 0 hasta el 30 (for) </p>
 
 <h2> Punto 13: Suma de un arreglo</h2>
-<img >
+<img src="./public/images/P13.png" alt ="Punto 13">
 <p>Dado un arreglo numérico de 5 posiciones generar la suma de los numeros (for) </p>
 
 <h2> Punto 14: Revisión de contraseña</h2>
