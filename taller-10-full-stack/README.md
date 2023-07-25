@@ -59,7 +59,7 @@
 <p>Dado un arreglo numérico de 5 posiciones generar la suma de los numeros (for) </p>
 
 <h2> Punto 14: Revisión de contraseña</h2>
-<img >
+<img src="./public/images/P14.png" alt = "Punto 14" >
 <p>Dada una contraseña a registrar por el usuario generar validaciones de si esta contraseña es segura o no teniendo en cuenta que una contraseña es segura si:
 
 Tiene 8 o más Caracteres
@@ -68,7 +68,7 @@ Tiene al menos un número
 </p>
 
 <h2> Punto 15: Operaciones básicas entre 2 números con funciones</h2>
-<img >
+<img src="./public/images/P15.png" alt="Punto 15">
 <p>Generar la operación de dos números digitados por el usuario pudiendo el usuario sumar, restar, multiplicar o dividir
 USANDO FUNCIONES
  </p>
