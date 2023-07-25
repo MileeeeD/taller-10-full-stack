@@ -46,12 +46,12 @@
 <p> Generar un programa que muestre los números pares del 1 al 100 (while)</p>
 
 <h2> Punto 11: Números pares del 0 al 100 For</h2>
-<img >
+<img src="./public/images/P11.png" alt ="Punto 11">
 <p> Generar un programa que muestre los números pares del 0 al 100 y haga una suma de ellos (for)
 </p>
 
 <h2> Punto 12: Tabla del 0 al 30 FOR</h2>
-<img >
+<img src="./public/images/P12.png" alt="Punto 12">
 <p>Dado un número digitado por el usuario generar la tabla de multiplicar de del 0 hasta el 30 (for) </p>
 
 <h2> Punto 13: Suma de un arreglo</h2>
